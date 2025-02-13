@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: s21fbk9yq-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/s21fbk9yq-python
